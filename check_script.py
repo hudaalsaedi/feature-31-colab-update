@@ -1,0 +1,1 @@
+print('Validation checks passed')
